@@ -1,0 +1,21 @@
+.posts_component{
+    width: "100%";
+    margin-top: 3rem;
+}
+
+.post_header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.post_link_route {
+    color: #fff;
+    text-decoration: none;
+}
+
+.Create-post-button{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    padding: 10px;
+}
