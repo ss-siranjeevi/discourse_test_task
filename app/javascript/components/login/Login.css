@@ -1,0 +1,50 @@
+.Login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Login_page {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Login_header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Login_body {
+  min-width: 400px;
+  display: flex;
+  flex-direction: column;
+}
+
+.Login_body p {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.Login_footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0.2rem;
+}
+
+.Login_button {
+  margin-top: 1rem;
+}
+
+.login_signup {
+  font-size: 14px;
+  font-weight: 600;
+  color: #1976d2;
+}
+
+.login_signup:hover {
+  cursor: pointer;
+  color: #1976d2;
+  text-decoration: underline;
+}
